@@ -1,2 +1,3 @@
 # project
-Otomatik bitki sulama projesi
+Smart plant care
+Voice controlled smart home system
